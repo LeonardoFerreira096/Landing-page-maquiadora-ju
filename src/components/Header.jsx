@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header>               
-      <nav>                
+      <nav className="flex justify-center m-auto p-4 gap-6">               
         <a>Início</a>
         <a>Galeria</a>
         <a>Blog</a>
