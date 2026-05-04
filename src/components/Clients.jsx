@@ -5,10 +5,10 @@ import foto4 from "../assets/IMG_0433.jpeg"
 import foto5 from "../assets/IMG_0442.jpeg"
 import foto6 from "../assets/IMG_0444.jpeg"
 
-function Clientes() {
+function Clients() {
   return (
     <section className="flex flex-col items-center gap-10 p-16">
-      
+
       <h2 className="text-4xl font-serif font-bold text-[#6c3483]">Clientes</h2>
 
       <div className="flex flex-row gap-6">
@@ -22,7 +22,7 @@ function Clientes() {
       </div>
 
     </section>
-  )
-}
+  );
+};
 
-export default Clientes
+export default Clients
